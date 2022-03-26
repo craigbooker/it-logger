@@ -9,7 +9,7 @@
 		"eslint-config-react-app": "^5.2.0",
 		"eslint-plugin-flowtype": "^3.13.0",
 		"materialize-css": "^1.0.0",
-		"minimist": "^1.2.5",
+		"minimist": "^1.2.6",
 		"moment": "^2.24.0",
 		"react": "^16.13.0",
 		"react-dom": "^16.13.0",
